@@ -1,4 +1,4 @@
-emoji :v: y'all!
+emoji :ok_hand: ok!
 ***
 about_me
 >  Hi I'm Ronj!
